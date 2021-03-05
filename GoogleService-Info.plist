@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>928032301481-jsnr5bo8k6s2hjak0rs937tpro7a3g2j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.928032301481-jsnr5bo8k6s2hjak0rs937tpro7a3g2j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDq58kn8chSiCs_Vks5fNellg2cG4Ar1F0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>928032301481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.biglarder.restaurants</string>
+	<key>PROJECT_ID</key>
+	<string>restaurants-96412</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurants-96412.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:928032301481:ios:43227ad3800c563c4b24b8</string>
+</dict>
+</plist>
